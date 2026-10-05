@@ -1,0 +1,27 @@
+{
+  "name": "精选影视源",
+  "version": 2,
+  "sources": [
+    {
+      "name": "非凡",
+      "url": "https://api.ffzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "量子",
+      "url": "https://cj.lziapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "光速",
+      "url": "https://api.guangsuapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "电影天堂",
+      "url": "http://caiji.dyttzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "索尼",
+      "url": "https://suoniapi.com/api.php/provide/vod"
+    }
+  ],
+  "liveSources": []
+}
